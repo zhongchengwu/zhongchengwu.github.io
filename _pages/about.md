@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently pursuing the Ph.D. degree (supervised by Prof. [Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm) and Prof. [Liang-Jian Deng](https://liangjiandeng.github.io/)) with the School of Mathematical Sciences, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) (UESTC), Chengdu, China.
 
-My research interest includes image processing, tensor learning, and pansharpening.
+My research interest includes image processing, tensor learning, and pansharpening. <a href='https://scholar.google.com/citations?user=8bOvaUcAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 E-mail: <wuzhch97@163.com> &emsp; [Google Scholar](https://scholar.google.com/citations?user=8bOvaUcAAAAJ)
 

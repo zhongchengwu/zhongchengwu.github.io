@@ -38,7 +38,7 @@ E-mail: <wuzhch97@163.com> &emsp; [Google Scholar](https://scholar.google.com/ci
   
 *IEEE Transactions on Image Processing* (<b>TIP</b>), 2023
 
-[[PDF](https://ieeexplore.ieee.org/document/10054514)] [[Code](https://github.com/zhongchengwu/code_LRTCFPan)]
+[[PDF](https://zhongchengwu.github.io/papers/lrtcfpan_tip2023.pdf)] [[Code](https://github.com/zhongchengwu/code_LRTCFPan)]
 </div>
 </div>
 

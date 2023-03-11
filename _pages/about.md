@@ -32,11 +32,11 @@ E-mail: <wuzhch97@163.com> &emsp; [Google Scholar](https://scholar.google.com/ci
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP</div><img src='images/tip_23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[LRTCFPan: Low-Rank Tensor Completion Based Framework for Pansharpening](https://ieeexplore.ieee.org/abstract/document/10054514)
+<b>LRTCFPan: Low-Rank Tensor Completion Based Framework for Pansharpening</b>
   
 <b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Jie Huang, Jocelyn Chanussot, Gemine Vivone
   
-*IEEE Transactions on Image Processing* (<b>TIP</b>), 2023
+*IEEE Transactions on Image Processing* (<b>TIP</b>), 2023.
 
 [[PDF](https://zhongchengwu.github.io/papers/lrtcfpan_tip2023.pdf)] [[Code](https://github.com/zhongchengwu/code_LRTCFPan)]
 </div>
@@ -49,13 +49,16 @@ E-mail: <wuzhch97@163.com> &emsp; [Google Scholar](https://scholar.google.com/ci
 
 <b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Hong-Xia Dou, Deyu Meng
   
-*Advances in Neural Information Processing Systems* (<b>NeurIPS</b>), 2022
+*Advances in Neural Information Processing Systems* (<b>NeurIPS</b>), 2022.
 
 [[PDF](https://zhongchengwu.github.io/papers/neurips_2022.pdf)] [[Appendix](https://zhongchengwu.github.io/papers/neurips_2022_appendix.pdf)] [[Poster](https://zhongchengwu.github.io/papers/Poster_TWDec.pdf)] [[Slides](https://zhongchengwu.github.io/papers/Slides_TWDec.pdf)] [[Code](https://github.com/zhongchengwu/code_TWDec)]
 </div>
 </div>
 
-- <b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Jin-Fan Hu, Gemine Vivone, \"VO+ Net: An Adaptive Approach Using Variational Optimization and Deep Learning for Panchromatic Sharpening\", *IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2021. [[PDF](https://liangjiandeng.github.io/papers/2021/VOFF.pdf)] [[Project](https://liangjiandeng.github.io/Projects_Res/VOFF_2021tgrs.html)] (<span style="color:red">ESI Highly Cited Paper</span>)
+- VO+ Net: An Adaptive Approach Using Variational Optimization and Deep Learning for Panchromatic Sharpening
+  <b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Jin-Fan Hu, Gemine Vivone 
+  *IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2021. (<span style="color:red">ESI Highly Cited Paper</span>)
+  [[PDF](https://liangjiandeng.github.io/papers/2021/VOFF.pdf)] [[Project](https://liangjiandeng.github.io/Projects_Res/VOFF_2021tgrs.html)]
 
 - <b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Jia-Qing Miao, Jin-Fan Hu, Xi-Le Zhao, \"A New Variational Approach Based on Proximal Deep Injection and Gradient Intensity Similarity for Spatio-Spectral Image Fusion\", *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* (<b>JSTARS</b>), 2020. [[PDF](https://liangjiandeng.github.io/papers/2020/dmpif_2020jstars.pdf)] [[Project](https://liangjiandeng.github.io/Projects_Res/DMPIF_2020jstars.html)]
 

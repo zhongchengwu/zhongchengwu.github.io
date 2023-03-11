@@ -55,7 +55,7 @@ E-mail: <wuzhch97@163.com> &emsp; [Google Scholar](https://scholar.google.com/ci
 </div>
 </div>
 
-- [VO+ Net: An Adaptive Approach Using Variational Optimization and Deep Learning for Panchromatic Sharpening](https://ieeexplore.ieee.org/abstract/document/9387460)
+- [VO+Net: An Adaptive Approach Using Variational Optimization and Deep Learning for Panchromatic Sharpening](https://ieeexplore.ieee.org/abstract/document/9387460)
 
   <b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Jin-Fan Hu, Gemine Vivone 
   

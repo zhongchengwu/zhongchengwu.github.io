@@ -31,10 +31,10 @@ E-mail: <wuzhch97@163.com> &emsp; [Google Scholar](https://scholar.google.com/ci
 <b>Note</b>: \* indicates the corresponding author.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP</div><img src='images/tip_23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-<b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Jie Huang, Jocelyn Chanussot, Gemine Vivone
   
-\"LRTCFPan: Low-Rank Tensor Completion Based Framework for Pansharpening\"
+[LRTCFPan: Low-Rank Tensor Completion Based Framework for Pansharpening](https://ieeexplore.ieee.org/abstract/document/10054514)
+  
+<b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Jie Huang, Jocelyn Chanussot, Gemine Vivone
   
 *IEEE Transactions on Image Processing* (<b>TIP</b>), 2023
 

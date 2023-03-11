@@ -81,7 +81,7 @@ E-mail: <wuzhch97@163.com> &emsp; [Google Scholar](https://scholar.google.com/ci
 
 - [High-Order Tensor Low-Rank Approximation with Application in Color Video Recovery](https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-31/issue-4/043044/High-order-tensor-low-rank-approximation-with-application-in-color/10.1117/1.JEI.31.4.043044.short)
   
-  Zhihao Wang, Wenjin Qin, <b>Zhong-Cheng Wu</b>, Hailin Wang, Jianjun Wang\*
+  Zhihao Wang, Wenjin Qin, <b>Zhongcheng Wu</b>, Hailin Wang, Jianjun Wang\*
   
   *Journal of Electronic Imaging* (<b>JEI</b>), 2022.
 

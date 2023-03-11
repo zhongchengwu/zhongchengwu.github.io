@@ -88,7 +88,7 @@ E-mail: <wuzhch97@163.com> &emsp; [Google Scholar](https://scholar.google.com/ci
 # 🛩 Educations
 - *2021.09 - Present*: &nbsp;Ph.D., Mathematics, University of Electronic Science and Technology of China (UESTC), Chengdu
 - *2019.09 - 2021.06*: &nbsp;M.S., Mathematics, University of Electronic Science and Technology of China (UESTC), Chengdu
-- *2015.09 - 2019.06*: &nbsp;B.E., Information and Computing Science, Anhui University of Finance and Economics (AUFE), Bengbu
+- *2015.09 - 2019.06*: &nbsp;B.S., Information and Computing Science, Anhui University of Finance and Economics (AUFE), Bengbu
 
 # 🎖 Honors and Awards
 - Academic Scholarship, UESTC, *2019*, *2021*, and *2022*

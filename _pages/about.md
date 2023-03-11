@@ -59,41 +59,31 @@ E-mail: <wuzhch97@163.com> &emsp; [Google Scholar](https://scholar.google.com/ci
 
   <b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Jin-Fan Hu, Gemine Vivone 
   
-  *IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2021. (<span style="color:red">ESI Highly Cited Paper</span>)
+  *IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2021. [[PDF](https://liangjiandeng.github.io/papers/2021/VOFF.pdf)] [[Project](https://liangjiandeng.github.io/Projects_Res/VOFF_2021tgrs.html)] (<span style="color:red">ESI Highly Cited Paper</span>)
   
-  [[PDF](https://liangjiandeng.github.io/papers/2021/VOFF.pdf)] [[Project](https://liangjiandeng.github.io/Projects_Res/VOFF_2021tgrs.html)]
-
 - <b>A New Variational Approach Based on Proximal Deep Injection and Gradient Intensity Similarity for Spatio-Spectral Image Fusion</b>
 
   <b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Jia-Qing Miao, Jin-Fan Hu, Xi-Le Zhao
   
-  *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* (<b>JSTARS</b>), 2020. 
+  *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* (<b>JSTARS</b>), 2020. [[PDF](https://liangjiandeng.github.io/papers/2020/dmpif_2020jstars.pdf)] [[Project](https://liangjiandeng.github.io/Projects_Res/DMPIF_2020jstars.html)]
   
-  [[PDF](https://liangjiandeng.github.io/papers/2020/dmpif_2020jstars.pdf)] [[Project](https://liangjiandeng.github.io/Projects_Res/DMPIF_2020jstars.html)]
-
 - <b>A New Context-Aware Details Injection Fidelity with Adaptive Coefficients Estimation for Variational Pansharpening</b>
  
   Jin-Liang Xiao, Ting-Zhu Huang\*, Liang-Jian Deng\*, <b>Zhong-Cheng Wu</b>, Gemine Vivone
   
-  *IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2022. 
-  
-  [[PDF](https://liangjiandeng.github.io/papers/2022/xiao-tgrs2022.pdf)] [[Code](https://github.com/liangjiandeng/CDIF)]
+  *IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2022. [[PDF](https://liangjiandeng.github.io/papers/2022/xiao-tgrs2022.pdf)] [[Code](https://github.com/liangjiandeng/CDIF)]
 
 - <b>An Iterative Approach for Image Fusion with Dynamic Gradient Sparsity and Anisotropic Spectral-Spatial Total Variation</b>
 
   Tian-Jing Zhang, Liang-Jian Deng\*, <b>Zhong-Cheng Wu</b>, Chao-Chao Zheng
   
-  *Signal, Image and Video Processing* (<b>SIVP</b>), 2022. 
-  
-  [[PDF](https://link.springer.com/article/10.1007/s11760-021-02105-y)]
+  *Signal, Image and Video Processing* (<b>SIVP</b>), 2022. [[PDF](https://link.springer.com/article/10.1007/s11760-021-02105-y)]
 
 - <b>High-Order Tensor Low-Rank Approximation with Application in Color Video Recovery</b>
   
   Zhihao Wang, Wenjin Qin, <b>Zhong-Cheng Wu</b>, Hailin Wang, Jianjun Wang\*
   
-  *Journal of Electronic Imaging* (<b>JEI</b>), 2022. 
-  
-  [[PDF](https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-31/issue-4/043044/High-order-tensor-low-rank-approximation-with-application-in-color/10.1117/1.JEI.31.4.043044.short)]
+  *Journal of Electronic Imaging* (<b>JEI</b>), 2022. [[PDF](https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-31/issue-4/043044/High-order-tensor-low-rank-approximation-with-application-in-color/10.1117/1.JEI.31.4.043044.short)]
 
 # 🛩 Educations
 - *2021.09 - Present*: &nbsp;Ph.D., Mathematics, University of Electronic Science and Technology of China (UESTC), Chengdu

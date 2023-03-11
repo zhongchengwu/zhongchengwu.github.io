@@ -56,8 +56,11 @@ E-mail: <wuzhch97@163.com> &emsp; [Google Scholar](https://scholar.google.com/ci
 </div>
 
 - VO+ Net: An Adaptive Approach Using Variational Optimization and Deep Learning for Panchromatic Sharpening
+
   <b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Jin-Fan Hu, Gemine Vivone 
+  
   *IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2021. (<span style="color:red">ESI Highly Cited Paper</span>)
+  
   [[PDF](https://liangjiandeng.github.io/papers/2021/VOFF.pdf)] [[Project](https://liangjiandeng.github.io/Projects_Res/VOFF_2021tgrs.html)]
 
 - <b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Jia-Qing Miao, Jin-Fan Hu, Xi-Le Zhao, \"A New Variational Approach Based on Proximal Deep Injection and Gradient Intensity Similarity for Spatio-Spectral Image Fusion\", *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* (<b>JSTARS</b>), 2020. [[PDF](https://liangjiandeng.github.io/papers/2020/dmpif_2020jstars.pdf)] [[Project](https://liangjiandeng.github.io/Projects_Res/DMPIF_2020jstars.html)]

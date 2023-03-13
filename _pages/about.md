@@ -32,12 +32,9 @@ E-mail: <wuzhch97@163.com> &emsp; [Google Scholar](https://scholar.google.com/ci
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP</div><img src='images/tip_23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[LRTCFPan: Low-Rank Tensor Completion Based Framework for Pansharpening](https://ieeexplore.ieee.org/abstract/document/10054514)
-  
-<b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Jie Huang, Jocelyn Chanussot, Gemine Vivone
-  
-*IEEE Transactions on Image Processing* (<b>TIP</b>), 2023.
-
+[LRTCFPan: Low-Rank Tensor Completion Based Framework for Pansharpening](https://ieeexplore.ieee.org/abstract/document/10054514) <br>
+<b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Jie Huang, Jocelyn Chanussot, Gemine Vivone <br>
+*IEEE Transactions on Image Processing* (<b>TIP</b>), 2023. <br>
 [[PDF](https://zhongchengwu.github.io/papers/lrtcfpan_tip2023.pdf)] [[Code](https://github.com/zhongchengwu/code_LRTCFPan)]
 </div>
 </div>
@@ -45,12 +42,9 @@ E-mail: <wuzhch97@163.com> &emsp; [Google Scholar](https://scholar.google.com/ci
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/neurips_22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Tensor Wheel Decomposition and Its Tensor Completion Application](https://papers.nips.cc)
-
-<b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Hong-Xia Dou, Deyu Meng
-  
-*Advances in Neural Information Processing Systems* (<b>NeurIPS</b>), 2022.
-
+[Tensor Wheel Decomposition and Its Tensor Completion Application](https://papers.nips.cc) <br>
+<b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Hong-Xia Dou, Deyu Meng <br>
+*Advances in Neural Information Processing Systems* (<b>NeurIPS</b>), 2022. <br>
 [[PDF](https://zhongchengwu.github.io/papers/neurips_2022.pdf)] [[Appendix](https://zhongchengwu.github.io/papers/neurips_2022_appendix.pdf)] [[Poster](https://zhongchengwu.github.io/papers/Poster_TWDec.pdf)] [[Slides](https://zhongchengwu.github.io/papers/Slides_TWDec.pdf)] [[Code](https://github.com/zhongchengwu/code_TWDec)]
 </div>
 </div>

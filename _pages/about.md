@@ -39,6 +39,9 @@ E-mail: <wuzhch97@163.com> &emsp; [Google Scholar](https://scholar.google.com/ci
 </div>
 </div>
 
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/neurips_22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -49,25 +52,37 @@ E-mail: <wuzhch97@163.com> &emsp; [Google Scholar](https://scholar.google.com/ci
 </div>
 </div>
 
+
+
 - [VO+Net: An Adaptive Approach Using Variational Optimization and Deep Learning for Panchromatic Sharpening](https://ieeexplore.ieee.org/abstract/document/9387460) <br>
   <b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Jin-Fan Hu, Gemine Vivone <br>
   *IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2021. [[PDF](https://liangjiandeng.github.io/papers/2021/VOFF.pdf)] [[Project](https://liangjiandeng.github.io/Projects_Res/VOFF_2021tgrs.html)] (<span style="color:red">ESI Highly Cited Paper</span>)
   
+  
+
 - [A New Variational Approach Based on Proximal Deep Injection and Gradient Intensity Similarity for Spatio-Spectral Image Fusion](https://ieeexplore.ieee.org/abstract/document/9220783) <br>
   <b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Jia-Qing Miao, Jin-Fan Hu, Xi-Le Zhao <br>
   *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* (<b>JSTARS</b>), 2020. [[PDF](https://liangjiandeng.github.io/papers/2020/dmpif_2020jstars.pdf)] [[Project](https://liangjiandeng.github.io/Projects_Res/DMPIF_2020jstars.html)]
-  
+
+
+
 - [A New Context-Aware Details Injection Fidelity with Adaptive Coefficients Estimation for Variational Pansharpening](https://ieeexplore.ieee.org/document/9721243) <br>
   Jin-Liang Xiao, Ting-Zhu Huang\*, Liang-Jian Deng\*, <b>Zhong-Cheng Wu</b>, Gemine Vivone <br>
   *IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2022. [[PDF](https://liangjiandeng.github.io/papers/2022/xiao-tgrs2022.pdf)] [[Code](https://github.com/liangjiandeng/CDIF)]
+
+
 
 - [An Iterative Approach for Image Fusion with Dynamic Gradient Sparsity and Anisotropic Spectral-Spatial Total Variation](https://link.springer.com/article/10.1007/s11760-021-02105-y) <br>
   Tian-Jing Zhang, Liang-Jian Deng\*, <b>Zhong-Cheng Wu</b>, Chao-Chao Zheng <br>
   *Signal, Image and Video Processing* (<b>SIVP</b>), 2022.
 
+
+
 - [High-Order Tensor Low-Rank Approximation with Application in Color Video Recovery](https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-31/issue-4/043044/High-order-tensor-low-rank-approximation-with-application-in-color/10.1117/1.JEI.31.4.043044.short) <br>
   Zhihao Wang, Wenjin Qin, <b>Zhongcheng Wu</b>, Hailin Wang, Jianjun Wang\* <br>
   *Journal of Electronic Imaging* (<b>JEI</b>), 2022.
+
+
 
 # 🛩 Educations
 - *2021.09 - Present*: &nbsp;Ph.D., Mathematics, University of Electronic Science and Technology of China (UESTC), Chengdu

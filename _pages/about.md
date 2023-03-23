@@ -45,7 +45,7 @@ E-mail: <wuzhch97@163.com> &emsp; [Google Scholar](https://scholar.google.com/ci
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/neurips_22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Tensor Wheel Decomposition and Its Tensor Completion Application](https://papers.nips.cc) <br>
+[Tensor Wheel Decomposition and Its Tensor Completion Application](https://papers.nips.cc/paper_files/paper/2022/hash/acbfe708197ff78ad04cc1beb1710979-Abstract-Conference.html) <br>
 <b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Hong-Xia Dou, Deyu Meng <br>
 *Advances in Neural Information Processing Systems* (<b>NeurIPS</b>), 2022. <br>
 [[PDF](https://zhongchengwu.github.io/papers/neurips_2022.pdf)] [[Appendix](https://zhongchengwu.github.io/papers/neurips_2022_appendix.pdf)] [[Poster](https://zhongchengwu.github.io/papers/Poster_TWDec.pdf)] [[Slides](https://zhongchengwu.github.io/papers/Slides_TWDec.pdf)] [[Code](https://github.com/zhongchengwu/code_TWDec)]

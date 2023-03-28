@@ -30,6 +30,18 @@ E-mail: <wuzhch97@163.com> &emsp; [Google Scholar](https://scholar.google.com/ci
 
 # 📄 Publications 
 <b>Note</b>: \* indicates the corresponding author.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIMS IPI</div><img src='images/ipi_23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[A Framelet Sparse Reconstruction Method for Pansharpening with Guaranteed Convergence](https://zhongchengwu.github.io/_pages/unavailable.html) <br>
+<b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Gemine Vivone <br>
+*Inverse Problems and Imaging* (<b>IPI</b>), 2023. <br>
+[[PDF](https://zhongchengwu.github.io/_pages/unavailable.html)] [[Code](https://zhongchengwu.github.io/_pages/unavailable.html)]
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP</div><img src='images/tip_23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   

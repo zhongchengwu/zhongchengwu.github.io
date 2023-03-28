@@ -23,7 +23,7 @@ My research interest includes image processing, tensor learning, and pansharpeni
 
 E-mail: <wuzhch97@163.com> &emsp; [Google Scholar](https://scholar.google.com/citations?user=8bOvaUcAAAAJ)
 
-# 🎙 News
+# 🎙 News 
 - *2023.03*: &nbsp;One paper for pansharpening is accepted by <b>AIMS IPI</b>.
 - *2023.02*: &nbsp;One paper for pansharpening is accepted by <b>IEEE TIP</b>.
 - *2022.09*: &nbsp;One paper for tensor learning is accepted by <b>NeurIPS 2022</b>.

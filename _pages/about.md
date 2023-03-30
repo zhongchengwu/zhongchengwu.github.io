@@ -24,6 +24,7 @@ My research interest includes image processing, tensor learning, and pansharpeni
 E-mail: <wuzhch97@163.com> &emsp; [Google Scholar](https://scholar.google.com/citations?user=8bOvaUcAAAAJ)
 
 # 🎙 News 
+- *2023.03*: &nbsp;One co-author paper is accepted by <b>IEEE TGRS</b>.
 - *2023.03*: &nbsp;One paper for pansharpening is accepted by <b>AIMS IPI</b>.
 - *2023.02*: &nbsp;One paper for pansharpening is accepted by <b>IEEE TIP</b>.
 - *2022.09*: &nbsp;One paper for tensor learning is accepted by <b>NeurIPS 2022</b>.
@@ -76,6 +77,12 @@ E-mail: <wuzhch97@163.com> &emsp; [Google Scholar](https://scholar.google.com/ci
 - [A New Variational Approach Based on Proximal Deep Injection and Gradient Intensity Similarity for Spatio-Spectral Image Fusion](https://ieeexplore.ieee.org/abstract/document/9220783) <br>
   <b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Gemine Vivone, Jia-Qing Miao, Jin-Fan Hu, Xi-Le Zhao <br>
   *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* (<b>JSTARS</b>), 2020. [[PDF](https://liangjiandeng.github.io/papers/2020/dmpif_2020jstars.pdf)] [[Project](https://liangjiandeng.github.io/Projects_Res/DMPIF_2020jstars.html)]
+
+
+
+- [A Novel Spatial Fidelity with Learnable Nonlinear Mapping for Panchromatic Sharpening](https://zhongchengwu.github.io/_pages/unavailable.html) <br>
+  Rui Wen, Liang-Jian Deng\*, <b>Zhong-Cheng Wu</b>, Xiao Wu,  Gemine Vivone <br>
+  *IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2023. [[PDF](https://zhongchengwu.github.io/_pages/unavailable.html)] [[Code](https://zhongchengwu.github.io/_pages/unavailable.html)]
 
 
 

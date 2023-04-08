@@ -80,7 +80,7 @@ E-mail: <wuzhch97@163.com> &emsp; [Google Scholar](https://scholar.google.com/ci
 
 
 
-- [A Novel Spatial Fidelity with Learnable Nonlinear Mapping for Panchromatic Sharpening](https://zhongchengwu.github.io/_pages/unavailable.html) <br>
+- [A Novel Spatial Fidelity with Learnable Nonlinear Mapping for Panchromatic Sharpening](https://ieeexplore.ieee.org/document/10097537) <br>
   Rui Wen, Liang-Jian Deng\*, <b>Zhong-Cheng Wu</b>, Xiao Wu,  Gemine Vivone <br>
   *IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2023. [[PDF](https://liangjiandeng.github.io/papers/2023/wen-tgrs2023.pdf)] [[Code](https://github.com/liangjiandeng/-LNM-PS)]
 

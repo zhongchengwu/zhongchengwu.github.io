@@ -37,7 +37,7 @@ E-mail: <wuzhch97@163.com> &emsp; [Google Scholar](https://scholar.google.com/ci
 [A Framelet Sparse Reconstruction Method for Pansharpening with Guaranteed Convergence](https://zhongchengwu.github.io/_pages/unavailable.html) <br>
 <b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Gemine Vivone <br>
 *Inverse Problems and Imaging* (<b>IPI</b>), 2023. <br>
-[[PDF](https://zhongchengwu.github.io/_pages/unavailable.html)] [[Code](https://github.com/zhongchengwu/code_ncFSRM)]
+[[PDF](https://zhongchengwu.github.io/papers/ncfsrm_ipi2023.pdf)] [[Code](https://github.com/zhongchengwu/code_ncFSRM)]
 </div>
 </div>
 
@@ -82,7 +82,7 @@ E-mail: <wuzhch97@163.com> &emsp; [Google Scholar](https://scholar.google.com/ci
 
 - [A Novel Spatial Fidelity with Learnable Nonlinear Mapping for Panchromatic Sharpening](https://zhongchengwu.github.io/_pages/unavailable.html) <br>
   Rui Wen, Liang-Jian Deng\*, <b>Zhong-Cheng Wu</b>, Xiao Wu,  Gemine Vivone <br>
-  *IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2023. [[PDF](https://zhongchengwu.github.io/_pages/unavailable.html)] [[Code](https://zhongchengwu.github.io/_pages/unavailable.html)]
+  *IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2023. [[PDF](https://liangjiandeng.github.io/papers/2023/wen-tgrs2023.pdf)] [[Code](https://github.com/liangjiandeng/-LNM-PS)]
 
 
 

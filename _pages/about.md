@@ -24,6 +24,7 @@ My research interest includes image processing, tensor learning, and pansharpeni
 E-mail: <wuzhch97@163.com> &emsp; [Google Scholar](https://scholar.google.com/citations?user=8bOvaUcAAAAJ)
 
 # 🎙 News 
+- *2023.06*: &nbsp;One corresponding-author paper is accepted by <b>IEEE GRSL</b>.
 - *2023.03*: &nbsp;One co-author paper is accepted by <b>IEEE TGRS</b>.
 - *2023.03*: &nbsp;One paper for pansharpening is accepted by <b>AIMS IPI</b>.
 - *2023.02*: &nbsp;One paper for pansharpening is accepted by <b>IEEE TIP</b>.
@@ -31,6 +32,12 @@ E-mail: <wuzhch97@163.com> &emsp; [Google Scholar](https://scholar.google.com/ci
 
 # 📄 Publications 
 <b>Note</b>: \* indicates the corresponding author.
+- [Dynamical Fusion Model with Joint Variational and Deep Priors for Hyperspectral Image Super-resolution](https://zhongchengwu.github.io/_pages/unavailable.html) <br>
+  Hong-Xia Dou, <b>Zhong-Cheng Wu\*</b>, Yu-Wei Zhuo, Liang-Jian Deng, Gemine Vivone <br>
+  *IEEE Geoscience and Remote Sensing Letters* (<b>GRSL</b>), 2023. [[PDF](https://zhongchengwu.github.io/_pages/unavailable.html)] [[Code](https://zhongchengwu.github.io/_pages/unavailable.html)]
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIMS IPI</div><img src='images/ipi_23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   

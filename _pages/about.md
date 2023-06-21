@@ -34,7 +34,7 @@ E-mail: <wuzhch97@163.com> &emsp; [Google Scholar](https://scholar.google.com/ci
 <b>Note</b>: \* indicates the corresponding author.
 
 
-- [Dynamical Fusion Model with Joint Variational and Deep Priors for Hyperspectral Image Super-resolution](https://zhongchengwu.github.io/_pages/unavailable.html) <br>
+- [Dynamical Fusion Model with Joint Variational and Deep Priors for Hyperspectral Image Super-resolution](https://ieeexplore.ieee.org/document/10156889) <br>
   Hong-Xia Dou, <b>Zhong-Cheng Wu\*</b>, Yu-Wei Zhuo, Liang-Jian Deng, Gemine Vivone <br>
   *IEEE Geoscience and Remote Sensing Letters* (<b>GRSL</b>), 2023. [[PDF](https://zhongchengwu.github.io/_pages/unavailable.html)] [[Code](https://zhongchengwu.github.io/_pages/unavailable.html)]
 

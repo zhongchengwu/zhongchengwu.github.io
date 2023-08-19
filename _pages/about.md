@@ -87,6 +87,12 @@ E-mail: <wuzhch97@163.com> &emsp; [Google Scholar](https://scholar.google.com/ci
 
 
 
+- [Variational Pansharpening Based on Coefficient Estimation with Nonlocal Regression](https://ieeexplore.ieee.org/abstract/document/10218368) <br>
+  Jin-Liang Xiao, Ting-Zhu Huang\*, Liang-Jian Deng\*, <b>Zhong-Cheng Wu</b>, Xiao Wu, Gemine Vivone <br>
+  *IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2023. [[PDF](https://zhongchengwu.github.io/_pages/unavailable.html)] [[Code](https://github.com/Jin-liangXiao/SFNLR)]
+
+
+  
 - [A Novel Spatial Fidelity with Learnable Nonlinear Mapping for Panchromatic Sharpening](https://ieeexplore.ieee.org/document/10097537) <br>
   Rui Wen, Liang-Jian Deng\*, <b>Zhong-Cheng Wu</b>, Xiao Wu,  Gemine Vivone <br>
   *IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2023. [[PDF](https://liangjiandeng.github.io/papers/2023/wen-tgrs2023.pdf)] [[Code](https://github.com/liangjiandeng/-LNM-PS)]

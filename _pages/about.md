@@ -34,7 +34,7 @@ E-mail: <wuzhch97@163.com> &emsp; [Google Scholar](https://scholar.google.com/ci
 
 - [Dynamical Fusion Model with Joint Variational and Deep Priors for Hyperspectral Image Super-resolution](https://ieeexplore.ieee.org/document/10156889) <br>
   Hong-Xia Dou, <b>Zhong-Cheng Wu\*</b>, Yu-Wei Zhuo, Liang-Jian Deng, Gemine Vivone <br>
-  *IEEE Geoscience and Remote Sensing Letters* (<b>GRSL</b>), 2023. [[PDF](https://zhongchengwu.github.io/_pages/unavailable.html)] [[Code](https://zhongchengwu.github.io/_pages/unavailable.html)]
+  *IEEE Geoscience and Remote Sensing Letters* (<b>GRSL</b>), 2023. [[Code](https://zhongchengwu.github.io/_pages/unavailable.html)]
 
 
 
@@ -89,7 +89,7 @@ E-mail: <wuzhch97@163.com> &emsp; [Google Scholar](https://scholar.google.com/ci
 
 - [Variational Pansharpening Based on Coefficient Estimation with Nonlocal Regression](https://ieeexplore.ieee.org/abstract/document/10218368) <br>
   Jin-Liang Xiao, Ting-Zhu Huang\*, Liang-Jian Deng\*, <b>Zhong-Cheng Wu</b>, Xiao Wu, Gemine Vivone <br>
-  *IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2023. [[PDF](https://zhongchengwu.github.io/_pages/unavailable.html)] [[Code](https://github.com/Jin-liangXiao/SFNLR)]
+  *IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2023. [[Code](https://github.com/Jin-liangXiao/SFNLR)]
 
 
   

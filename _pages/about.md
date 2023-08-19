@@ -25,10 +25,8 @@ E-mail: <wuzhch97@163.com> &emsp; [Google Scholar](https://scholar.google.com/ci
 
 # 🎙 News 
 - *2023.06*: &nbsp;One corresponding-author paper is accepted by <b>IEEE GRSL</b>.
-- *2023.03*: &nbsp;One co-author paper is accepted by <b>IEEE TGRS</b>.
 - *2023.03*: &nbsp;One paper for pansharpening is accepted by <b>AIMS IPI</b>.
 - *2023.02*: &nbsp;One paper for pansharpening is accepted by <b>IEEE TIP</b>.
-- *2022.09*: &nbsp;One paper for tensor learning is accepted by <b>NeurIPS 2022</b>.
 
 # 📄 Publications 
 <b>Note</b>: \* indicates the corresponding author.

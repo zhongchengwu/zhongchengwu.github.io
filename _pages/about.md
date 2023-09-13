@@ -123,6 +123,7 @@ E-mail: <wuzhch97@163.com> &emsp; [Google Scholar](https://scholar.google.com/ci
 - *2015.09 - 2019.06*: &nbsp;B.S., Information and Computing Science, Anhui University of Finance and Economics (AUFE), Bengbu
 
 # 🎖 Honors and Awards
+- Outstanding Graduate Student, UESTC, *2023*
 - Academic Scholarship, UESTC, *2019*, *2021*, and *2022*
 - Special Postgraduate Scholarship of Science, UESTC, *2021*
 - Academic Rookie, UESTC, *2021*

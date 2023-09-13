@@ -23,7 +23,7 @@ From Sep. 2023 to Present, I am a visiting Ph.D. student, sponsored by the China
 
 My research interest includes image processing, tensor learning, and pansharpening. 
 
-E-mail: <wuzhch97@163.com> &emsp; [Google Scholar](https://scholar.google.com/citations?user=8bOvaUcAAAAJ)
+E-mail: <wuzhch97@163.com> &emsp;
 
 # 🎙 News 
 - *2023.06*: &nbsp;One corresponding-author paper is accepted by <b>IEEE GRSL</b>.

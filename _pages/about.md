@@ -19,6 +19,8 @@ redirect_from:
 
 I am currently pursuing the Ph.D. degree (supervised by Prof. [Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm) and Prof. [Liang-Jian Deng](https://liangjiandeng.github.io/)) with the School of Mathematical Sciences, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) (UESTC), Chengdu, China.
 
+From Sep. 2023 to Present, I am a visiting Ph.D. student, sponsored by the China Scholarship Council, at Institute of Methodologies for Environmental Analysis, National Research Council (CNR-IMAA), Italy, working with Prof. [Gemine Vivone](https://sites.google.com/site/vivonegemine).
+
 My research interest includes image processing, tensor learning, and pansharpening. 
 
 E-mail: <wuzhch97@163.com> &emsp; [Google Scholar](https://scholar.google.com/citations?user=8bOvaUcAAAAJ)
@@ -118,9 +120,9 @@ E-mail: <wuzhch97@163.com> &emsp; [Google Scholar](https://scholar.google.com/ci
 
 
 # 🛩 Educations
-- *2021.09 - Present*: &nbsp;Ph.D., Mathematics, University of Electronic Science and Technology of China (UESTC), Chengdu
-- *2019.09 - 2021.06*: &nbsp;M.S., Mathematics, University of Electronic Science and Technology of China (UESTC), Chengdu
-- *2015.09 - 2019.06*: &nbsp;B.S., Information and Computing Science, Anhui University of Finance and Economics (AUFE), Bengbu
+- *2021.09 - Present*: &nbsp;Ph.D., Mathematics, University of Electronic Science and Technology of China (UESTC), China
+- *2019.09 - 2021.06*: &nbsp;M.S., Mathematics, University of Electronic Science and Technology of China (UESTC), China
+- *2015.09 - 2019.06*: &nbsp;B.S., Information and Computing Science, Anhui University of Finance and Economics (AUFE), China
 
 # 🎖 Honors and Awards
 - Outstanding Graduate Student, UESTC, *2023*

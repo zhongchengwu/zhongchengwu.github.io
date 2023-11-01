@@ -84,7 +84,7 @@ E-mail: <wuzhch97@163.com> &emsp;
 
 # 🎖 Honors and Awards
 - National Scholarship, *2023*
-- Outstanding Graduate Student, *2021* and *2023*
+- Outstanding Postgraduate, *2021* and *2023*
 - Academic Scholarship, *2019*, *2021*, *2022*, and *2023*
 - Special Postgraduate Scholarship of Science, *2021*
 - Provincial Outstanding Graduate (Top 3%), *2019* 

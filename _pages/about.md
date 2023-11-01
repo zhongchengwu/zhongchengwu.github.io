@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently pursuing the Ph.D. degree (supervised by Prof. [Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm) and Prof. [Liang-Jian Deng](https://liangjiandeng.github.io/)) with the School of Mathematical Sciences, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) (UESTC), Chengdu, China.
 
-From Sep. 2023 to the present, I am a visiting Ph.D. student (supervised by Prof. [Gemine Vivone](https://sites.google.com/site/vivonegemine)), sponsored by the China Scholarship Council, at Institute of Methodologies for Environmental Analysis, National Research Council (CNR-IMAA), Potenza, Italy.
+From Sep. 2023 to the present, I am a visiting Ph.D. student (supervised by Prof. [Gemine Vivone](https://sites.google.com/site/vivonegemine)), sponsored by the China Scholarship Council, at CNR-IMAA, Italy.
 
 My research interest includes image processing, tensor learning, and pansharpening.
 

@@ -39,42 +39,25 @@ E-mail: <wuzhch97@163.com> &emsp;
   *IEEE Geoscience and Remote Sensing Letters* (<b>GRSL</b>), 2023. [[Code](https://zhongchengwu.github.io/_pages/unavailable.html)]
 
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIMS IPI</div><img src='images/ipi_23.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
   
-[A Framelet Sparse Reconstruction Method for Pansharpening with Guaranteed Convergence](https://www.aimsciences.org/article/doi/10.3934/ipi.2023016) <br>
-<b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Gemine Vivone <br>
-*Inverse Problems and Imaging* (<b>IPI</b>), 2023. <br>
-[[PDF](https://zhongchengwu.github.io/papers/ncfsrm_ipi2023.pdf)] [[Code](https://github.com/zhongchengwu/code_ncFSRM)]
-</div>
-</div>
+- [A Framelet Sparse Reconstruction Method for Pansharpening with Guaranteed Convergence](https://www.aimsciences.org/article/doi/10.3934/ipi.2023016) <br>
+  <b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Gemine Vivone <br>
+  *Inverse Problems and Imaging* (<b>IPI</b>), 2023. <br>
+  [[PDF](https://zhongchengwu.github.io/papers/ncfsrm_ipi2023.pdf)] [[Code](https://github.com/zhongchengwu/code_ncFSRM)]
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP</div><img src='images/tip_23.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-[LRTCFPan: Low-Rank Tensor Completion Based Framework for Pansharpening](https://ieeexplore.ieee.org/abstract/document/10054514) <br>
-<b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Jie Huang, Jocelyn Chanussot, Gemine Vivone <br>
-*IEEE Transactions on Image Processing* (<b>TIP</b>), 2023. <br>
-[[PDF](https://zhongchengwu.github.io/papers/lrtcfpan_tip2023.pdf)] [[Code](https://github.com/zhongchengwu/code_LRTCFPan)]
-</div>
-</div>
+- [LRTCFPan: Low-Rank Tensor Completion Based Framework for Pansharpening](https://ieeexplore.ieee.org/abstract/document/10054514) <br>
+  <b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Jie Huang, Jocelyn Chanussot, Gemine Vivone <br>
+  *IEEE Transactions on Image Processing* (<b>TIP</b>), 2023. <br>
+  [[PDF](https://zhongchengwu.github.io/papers/lrtcfpan_tip2023.pdf)] [[Code](https://github.com/zhongchengwu/code_LRTCFPan)]
 
 
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/neurips_22.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-[Tensor Wheel Decomposition and Its Tensor Completion Application](https://papers.nips.cc/paper_files/paper/2022/hash/acbfe708197ff78ad04cc1beb1710979-Abstract-Conference.html) <br>
-<b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Hong-Xia Dou, Deyu Meng <br>
-*Advances in Neural Information Processing Systems* (<b>NeurIPS</b>), 2022. <br>
-[[PDF](https://zhongchengwu.github.io/papers/neurips_2022.pdf)] [[Appendix](https://zhongchengwu.github.io/papers/neurips_2022_appendix.pdf)] [[Poster](https://zhongchengwu.github.io/papers/Poster_TWDec.pdf)] [[Slides](https://zhongchengwu.github.io/papers/Slides_TWDec.pdf)] [[Code](https://github.com/zhongchengwu/code_TWDec)]
-</div>
-</div>
-
+- [Tensor Wheel Decomposition and Its Tensor Completion Application](https://papers.nips.cc/paper_files/paper/2022/hash/acbfe708197ff78ad04cc1beb1710979-Abstract-Conference.html) <br>
+  <b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Hong-Xia Dou, Deyu Meng <br>
+  *Advances in Neural Information Processing Systems* (<b>NeurIPS</b>), 2022. <br>
+  [[PDF](https://zhongchengwu.github.io/papers/neurips_2022.pdf)] [[Appendix](https://zhongchengwu.github.io/papers/neurips_2022_appendix.pdf)] [[Poster](https://zhongchengwu.github.io/papers/Poster_TWDec.pdf)] [[Slides](https://zhongchengwu.github.io/papers/Slides_TWDec.pdf)] [[Code](https://github.com/zhongchengwu/code_TWDec)]
 
 
 - [VO+Net: An Adaptive Approach Using Variational Optimization and Deep Learning for Panchromatic Sharpening](https://ieeexplore.ieee.org/abstract/document/9387460) <br>
@@ -126,6 +109,7 @@ E-mail: <wuzhch97@163.com> &emsp;
 
 # 🎖 Honors and Awards
 - National Scholarship, *2023*
+- Outstanding Graduate Student, *2021* and *2023*
 - Academic Scholarship, *2019*, *2021*, *2022*, and *2023*
 - Special Postgraduate Scholarship of Science, *2021*
 - Provincial Outstanding Graduate (Top 3%), *2019* 

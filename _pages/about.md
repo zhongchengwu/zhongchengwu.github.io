@@ -126,10 +126,8 @@ E-mail: <wuzhch97@163.com> &emsp;
 
 # 🎖 Honors and Awards
 - National Scholarship, *2023*
-- Academic Scholarship, UESTC, *2019*, *2021*, *2022*, and *2023*
-- Outstanding Graduate Student, UESTC, *2023*
-- Special Postgraduate Scholarship of Science, UESTC, *2021*
-- Academic Rookie, UESTC, *2021*
+- Academic Scholarship, *2019*, *2021*, *2022*, and *2023*
+- Special Postgraduate Scholarship of Science, *2021*
 - Provincial Outstanding Graduate (Top 3%), *2019* 
 
 # 🗺 Academic Activities

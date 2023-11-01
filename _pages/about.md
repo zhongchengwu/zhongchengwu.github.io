@@ -125,11 +125,12 @@ E-mail: <wuzhch97@163.com> &emsp;
 - *2015.09 - 2019.06*: &nbsp;B.S., Information and Computing Science, Anhui University of Finance and Economics (AUFE), China
 
 # 🎖 Honors and Awards
+- National Scholarship, *2023*
+- Academic Scholarship, UESTC, *2019*, *2021*, *2022*, and *2023*
 - Outstanding Graduate Student, UESTC, *2023*
-- Academic Scholarship, UESTC, *2019*, *2021*, and *2022*
 - Special Postgraduate Scholarship of Science, UESTC, *2021*
 - Academic Rookie, UESTC, *2021*
-- Provincial Outstanding Graduate (Top 3%), Department of Education of Anhui Province, *2019* 
+- Provincial Outstanding Graduate (Top 3%), *2019* 
 
 # 🗺 Academic Activities
 
@@ -137,4 +138,4 @@ E-mail: <wuzhch97@163.com> &emsp;
 - Frontiers in Remote Sensing, ...
 
 ## Reviewer
-- IEEE GRSL, SPIE JEI, ...
+- Information Fusion, IEEE GRSL, SPIE JEI, ...

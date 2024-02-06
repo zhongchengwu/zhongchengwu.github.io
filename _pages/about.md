@@ -26,12 +26,14 @@ My research interest includes image processing, tensor learning, and pansharpeni
 E-mail: <wuzhch97@163.com> &emsp;
 
 # 🎙 News 
-- *2023.06*: &nbsp;One corresponding-author paper is accepted by <b>IEEE GRSL</b>.
-- *2023.03*: &nbsp;One paper for pansharpening is accepted by <b>AIMS IPI</b>.
-- *2023.02*: &nbsp;One paper for pansharpening is accepted by <b>IEEE TIP</b>.
+- *2024.02*: &nbsp;One paper for pansharpening is accepted by <b>Information Fusion</b>.
 
 # 📄 Publications 
 <b>Note</b>: \* indicates the corresponding author.
+
+- [Pansharpening via Semi-Framelet-Guided Sparse Reconstruction](https://zhongchengwu.github.io/_pages/unavailable.html) <br>
+  <b>Zhong-Cheng Wu</b>, Gemine Vivone\*, Ting-Zhu Huang\*, Liang-Jian Deng <br>
+  *Information Fusion* (<b>IF</b>), 2024. [[PDF](https://zhongchengwu.github.io/_pages/unavailable.html)] [[Code](https://zhongchengwu.github.io/_pages/unavailable.html)]
 
 - [Dynamical Fusion Model with Joint Variational and Deep Priors for Hyperspectral Image Super-resolution](https://ieeexplore.ieee.org/document/10156889) <br>
   Hong-Xia Dou, <b>Zhong-Cheng Wu\*</b>, Yu-Wei Zhuo, Liang-Jian Deng, Gemine Vivone <br>

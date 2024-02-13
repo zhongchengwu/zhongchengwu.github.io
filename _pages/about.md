@@ -31,7 +31,7 @@ E-mail: <wuzhch97@163.com> &emsp;
 # 📄 Publications 
 <b>Note</b>: \* indicates the corresponding author.
 
-- [Pansharpening via Semi-Framelet-Guided Sparse Reconstruction](https://zhongchengwu.github.io/_pages/unavailable.html) <br>
+- [Pansharpening via Semi-Framelet-Guided Sparse Reconstruction](https://www.sciencedirect.com/science/article/pii/S1566253524000757) <br>
   <b>Zhong-Cheng Wu</b>, Gemine Vivone\*, Ting-Zhu Huang\*, Liang-Jian Deng <br>
   *Information Fusion* (<b>IF</b>), 2024. [[PDF](https://zhongchengwu.github.io/_pages/unavailable.html)] [[Code](https://zhongchengwu.github.io/_pages/unavailable.html)]
 

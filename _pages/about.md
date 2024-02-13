@@ -37,7 +37,7 @@ E-mail: <wuzhch97@163.com> &emsp;
 
 - [Dynamical Fusion Model with Joint Variational and Deep Priors for Hyperspectral Image Super-resolution](https://ieeexplore.ieee.org/document/10156889) <br>
   Hong-Xia Dou, <b>Zhong-Cheng Wu\*</b>, Yu-Wei Zhuo, Liang-Jian Deng, Gemine Vivone <br>
-  *IEEE Geoscience and Remote Sensing Letters* (<b>GRSL</b>), 2023. [[Code](https://zhongchengwu.github.io/_pages/unavailable.html)]
+  *IEEE Geoscience and Remote Sensing Letters* (<b>GRSL</b>), 2023.
 
 - [A Framelet Sparse Reconstruction Method for Pansharpening with Guaranteed Convergence](https://www.aimsciences.org/article/doi/10.3934/ipi.2023016) <br>
   <b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Gemine Vivone <br>
@@ -53,11 +53,11 @@ E-mail: <wuzhch97@163.com> &emsp;
 
 - [VO+Net: An Adaptive Approach Using Variational Optimization and Deep Learning for Panchromatic Sharpening](https://ieeexplore.ieee.org/abstract/document/9387460) <br>
   <b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Jin-Fan Hu, Gemine Vivone <br>
-  *IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2021. [[PDF](https://liangjiandeng.github.io/papers/2021/VOFF.pdf)] [[Project](https://liangjiandeng.github.io/Projects_Res/VOFF_2021tgrs.html)] (<span style="color:red">ESI Highly Cited Paper</span>)
+  *IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2021. [[Project](https://liangjiandeng.github.io/Projects_Res/VOFF_2021tgrs.html)] (<span style="color:red">ESI Highly Cited Paper</span>)
 
 - [A New Variational Approach Based on Proximal Deep Injection and Gradient Intensity Similarity for Spatio-Spectral Image Fusion](https://ieeexplore.ieee.org/abstract/document/9220783) <br>
   <b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Gemine Vivone, Jia-Qing Miao, Jin-Fan Hu, Xi-Le Zhao <br>
-  *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* (<b>JSTARS</b>), 2020. [[PDF](https://liangjiandeng.github.io/papers/2020/dmpif_2020jstars.pdf)] [[Project](https://liangjiandeng.github.io/Projects_Res/DMPIF_2020jstars.html)]
+  *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* (<b>JSTARS</b>), 2020. [[Project](https://liangjiandeng.github.io/Projects_Res/DMPIF_2020jstars.html)]
 
 - [Variational Pansharpening Based on Coefficient Estimation with Nonlocal Regression](https://ieeexplore.ieee.org/abstract/document/10218368) <br>
   Jin-Liang Xiao, Ting-Zhu Huang\*, Liang-Jian Deng\*, <b>Zhong-Cheng Wu</b>, Xiao Wu, Gemine Vivone <br>

@@ -33,7 +33,7 @@ E-mail: <wuzhch97@163.com> &emsp;
 
 - [Pansharpening via Semi-Framelet-Guided Sparse Reconstruction](https://www.sciencedirect.com/science/article/pii/S1566253524000757) <br>
   <b>Zhong-Cheng Wu</b>, Gemine Vivone\*, Ting-Zhu Huang\*, Liang-Jian Deng <br>
-  *Information Fusion* (<b>IF</b>), 2024. [[Code](https://zhongchengwu.github.io/_pages/unavailable.html)]
+  *Information Fusion* (<b>IF</b>), 2024. [[Code](https://zhongchengwu.github.io)]
 
 - [Dynamical Fusion Model with Joint Variational and Deep Priors for Hyperspectral Image Super-resolution](https://ieeexplore.ieee.org/document/10156889) <br>
   Hong-Xia Dou, <b>Zhong-Cheng Wu\*</b>, Yu-Wei Zhuo, Liang-Jian Deng, Gemine Vivone <br>

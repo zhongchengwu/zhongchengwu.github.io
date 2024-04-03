@@ -28,7 +28,7 @@ E-mail: <wuzhch97@163.com> &emsp;
 # 🎙 News 
 - *2024.02*: &nbsp;One paper for pansharpening is accepted by <b>Information Fusion</b>.
 
-# 📄 Publications 
+# Publications 
 <b>Note</b>: \* indicates the corresponding author.
 
 - [Pansharpening via Semi-Framelet-Guided Sparse Reconstruction](https://www.sciencedirect.com/science/article/pii/S1566253524000757) <br>

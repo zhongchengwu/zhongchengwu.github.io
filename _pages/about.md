@@ -25,7 +25,7 @@ My research interest includes image processing, tensor learning, and pansharpeni
 
 E-mail: <wuzhch97@163.com> &emsp;
 
-# 🎙 News 
+# News 
 - *2024.02*: &nbsp;One paper for pansharpening is accepted by <b>Information Fusion</b>.
 
 # Publications 
@@ -79,19 +79,19 @@ E-mail: <wuzhch97@163.com> &emsp;
   Zhihao Wang, Wenjin Qin, <b>Zhongcheng Wu</b>, Hailin Wang, Jianjun Wang\* <br>
   *Journal of Electronic Imaging* (<b>JEI</b>), 2022.
 
-# 🛩 Educations
+# Educations
 - *2021.09 - Present*: &nbsp;Ph.D., Mathematics, University of Electronic Science and Technology of China (UESTC), China
 - *2019.09 - 2021.06*: &nbsp;M.S., Mathematics, University of Electronic Science and Technology of China (UESTC), China
 - *2015.09 - 2019.06*: &nbsp;B.S., Information and Computing Science, Anhui University of Finance and Economics (AUFE), China
 
-# 🎖 Honors and Awards
+# Honors and Awards
 - National Scholarship, *2023*
 - Outstanding Postgraduate, *2021* and *2023*
 - Academic Scholarship, *2019*, *2021*, *2022*, and *2023*
 - Special Postgraduate Scholarship of Science, *2021*
 - Provincial Outstanding Graduate (Top 3%), *2019* 
 
-# 🗺 Academic Activities
+# Academic Activities
 
 ## Review Editor
 - Frontiers in Remote Sensing, ...

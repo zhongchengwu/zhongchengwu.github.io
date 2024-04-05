@@ -33,7 +33,7 @@ E-mail: <wuzhch97@163.com> &emsp;
 
 - [Pansharpening via Semi-Framelet-Guided Sparse Reconstruction](https://www.sciencedirect.com/science/article/pii/S1566253524000757) <br>
   <b>Zhong-Cheng Wu</b>, Gemine Vivone\*, Ting-Zhu Huang\*, Liang-Jian Deng <br>
-  *Information Fusion* (<b>IF</b>), 2024. [[Code](https://zhongchengwu.github.io)]
+  *Information Fusion* (<b>IF</b>), 2024.
 
 - [Dynamical Fusion Model with Joint Variational and Deep Priors for Hyperspectral Image Super-resolution](https://ieeexplore.ieee.org/document/10156889) <br>
   Hong-Xia Dou, <b>Zhong-Cheng Wu\*</b>, Yu-Wei Zhuo, Liang-Jian Deng, Gemine Vivone <br>
@@ -53,11 +53,11 @@ E-mail: <wuzhch97@163.com> &emsp;
 
 - [VO+Net: An Adaptive Approach Using Variational Optimization and Deep Learning for Panchromatic Sharpening](https://ieeexplore.ieee.org/abstract/document/9387460) <br>
   <b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Jin-Fan Hu, Gemine Vivone <br>
-  *IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2021. [[Project](https://liangjiandeng.github.io/Projects_Res/VOFF_2021tgrs.html)] (<span style="color:red">ESI Highly Cited Paper</span>)
+  *IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2021. [[Code](https://liangjiandeng.github.io/Projects_Res/VOFF_2021tgrs.html)] (<span style="color:red">ESI Highly Cited Paper</span>)
 
 - [A New Variational Approach Based on Proximal Deep Injection and Gradient Intensity Similarity for Spatio-Spectral Image Fusion](https://ieeexplore.ieee.org/abstract/document/9220783) <br>
   <b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Gemine Vivone, Jia-Qing Miao, Jin-Fan Hu, Xi-Le Zhao <br>
-  *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* (<b>JSTARS</b>), 2020. [[Project](https://liangjiandeng.github.io/Projects_Res/DMPIF_2020jstars.html)]
+  *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* (<b>JSTARS</b>), 2020. [[Code](https://liangjiandeng.github.io/Projects_Res/DMPIF_2020jstars.html)]
 
 - [Variational Pansharpening Based on Coefficient Estimation with Nonlocal Regression](https://ieeexplore.ieee.org/abstract/document/10218368) <br>
   Jin-Liang Xiao, Ting-Zhu Huang\*, Liang-Jian Deng\*, <b>Zhong-Cheng Wu</b>, Xiao Wu, Gemine Vivone <br>

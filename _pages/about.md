@@ -26,7 +26,7 @@ My research interest includes image processing, tensor learning, and pansharpeni
 E-mail: <wuzhch97@163.com> &emsp;
 
 # News 
-- *2024.02*: &nbsp;One paper for pansharpening is accepted by <b>Information Fusion</b>.
+- *2024.02*: &nbsp;One paper is accepted by <b>Information Fusion</b>.
 
 # Publications 
 <b>Note</b>: \* indicates the corresponding author.
@@ -85,6 +85,7 @@ E-mail: <wuzhch97@163.com> &emsp;
 - *2015.09 - 2019.06*: &nbsp;B.S., Information and Computing Science, Anhui University of Finance and Economics (AUFE), China
 
 # Honors and Awards
+- Academic Promising Talent Award, *2021* and *2024*
 - National Scholarship, *2023*
 - Outstanding Postgraduate, *2021* and *2023*
 - Academic Scholarship, *2019*, *2021*, *2022*, and *2023*

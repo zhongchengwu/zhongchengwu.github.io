@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhong-Cheng Wu | UESTC"
+title                    : "Zhong-Cheng Wu (吴忠诚) | UESTC"
 description              : "Ph.D. student in UESTC. Focusing on image processing, tensor learning, and pansharpening."
 repository               : "zhongchengwu/zhongchengwu.github.io"
 google_scholar_stats_use_cdn : true

@@ -45,7 +45,7 @@ E-mail: <wuzhch97@163.com> &emsp;
 
 - [LRTCFPan: Low-Rank Tensor Completion Based Framework for Pansharpening](https://ieeexplore.ieee.org/abstract/document/10054514) <br>
   <b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Jie Huang, Jocelyn Chanussot, Gemine Vivone <br>
-  *IEEE Transactions on Image Processing* (<b>TIP</b>), 2023. [[PDF](https://zhongchengwu.github.io/papers/lrtcfpan_tip2023.pdf)] [[Code](https://github.com/zhongchengwu/code_LRTCFPan)]
+  *IEEE Transactions on Image Processing* (<b>TIP</b>), 2023. [[PDF](https://zhongchengwu.github.io/papers/lrtcfpan_tip2023.pdf)] [[Code](https://github.com/zhongchengwu/code_LRTCFPan)] (<span style="color:red">ESI Highly Cited Paper</span>)
 
 - [Tensor Wheel Decomposition and Its Tensor Completion Application](https://papers.nips.cc/paper_files/paper/2022/hash/acbfe708197ff78ad04cc1beb1710979-Abstract-Conference.html) <br>
   <b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Hong-Xia Dou, Deyu Meng <br>

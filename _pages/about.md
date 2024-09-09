@@ -26,11 +26,16 @@ My research interest includes image processing, tensor learning, and pansharpeni
 E-mail: <wuzhch97@163.com> &emsp;
 
 # News 
+- *2024.09*: &nbsp;One paper is accepted by <b>IEEE TGRS</b>.
 - *2024.02*: &nbsp;One paper is accepted by <b>Information Fusion</b>.
 
 # Publications 
 <b>Note</b>: \* indicates the corresponding author.
 
+- [CroDoSR: Tensor Cross-Domain Rank for Hyperspectral Image Super-Resolution](https://www.sciencedirect.com/science/article/pii/S1566253524000757) <br>
+  <b>Zhong-Cheng Wu</b>, Ya-Jun Li, Ting-Zhu Huang\*, Liang-Jian Deng\*, Gemine Vivone <br>
+  *IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2024.
+  
 - [Pansharpening via Semi-Framelet-Guided Sparse Reconstruction](https://www.sciencedirect.com/science/article/pii/S1566253524000757) <br>
   <b>Zhong-Cheng Wu</b>, Gemine Vivone\*, Ting-Zhu Huang\*, Liang-Jian Deng <br>
   *Information Fusion* (<b>IF</b>), 2024.

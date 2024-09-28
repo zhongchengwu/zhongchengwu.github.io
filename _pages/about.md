@@ -32,7 +32,7 @@ E-mail: <wuzhch97@163.com> &emsp;
 # Publications 
 <b>Note</b>: \* indicates the corresponding author.
 
-- [CroDoSR: Tensor Cross-Domain Rank for Hyperspectral Image Super-Resolution](https://www.sciencedirect.com/science/article/pii/S1566253524000757) <br>
+- [CroDoSR: Tensor Cross-Domain Rank for Hyperspectral Image Super-Resolution](https://ieeexplore.ieee.org/abstract/document/10672531) <br>
   <b>Zhong-Cheng Wu</b>, Ya-Jun Li, Ting-Zhu Huang\*, Liang-Jian Deng\*, Gemine Vivone <br>
   *IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2024.
   

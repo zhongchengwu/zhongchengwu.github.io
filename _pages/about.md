@@ -22,7 +22,7 @@ I am currently working with the School of Instrument Science and Opto-electronic
 
 From Sep. 2023 to Sep. 2024, I worked with Prof. [Gemine Vivone](https://sites.google.com/site/vivonegemine), sponsored by the China Scholarship Council, at the Institute of Methodologies for Environmental Analysis (IMAA), National Research Council (CNR), Italy.
 
-My research interest includes image processing, tensor learning, and pansharpening.
+My research interest includes machine learning, image processing, and tensor computing. Particularly in image fusion, high-dimensional data recovery, tensor networks, and tensor decomposition.
 
 E-mail: <wuzhch97@163.com> &emsp;
 

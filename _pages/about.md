@@ -18,9 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am currently working with the School of Instrument Science and Opto-electronics Engineering, [Hefei University of Technology](https://www.hfut.edu.cn/), Hefei, China. I received the Ph.D. degree (supervised by Prof. [Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm)) from the School of Mathematical Sciences, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) (UESTC), Chengdu, China, in 2025.
-
-From Sep. 2023 to Sep. 2024, I worked with Prof. [Gemine Vivone](https://sites.google.com/site/vivonegemine), sponsored by the China Scholarship Council, at the Institute of Methodologies for Environmental Analysis (IMAA), National Research Council (CNR), Italy.
+I am currently working with the School of Instrument Science and Opto-electronics Engineering, [Hefei University of Technology](https://www.hfut.edu.cn/), Hefei, China. I received the Ph.D. degree (supervised by Prof. [Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm)) from the School of Mathematical Sciences, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) (UESTC), Chengdu, China, in 2025. From Sep. 2023 to Sep. 2024, I worked with Prof. [Gemine Vivone](https://sites.google.com/site/vivonegemine), sponsored by the China Scholarship Council, at the Institute of Methodologies for Environmental Analysis (IMAA), National Research Council (CNR), Italy.
 
 My research interest includes high-dimensional image processing, image fusion, trustworthy machine learning, tensor modeling and computing.
 

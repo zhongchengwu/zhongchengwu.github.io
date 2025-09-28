@@ -26,8 +26,7 @@ My research interest includes image processing, tensor learning, and pansharpeni
 E-mail: <wuzhch97@163.com> &emsp;
 
 # News 
-- *2024.09*: &nbsp;One paper is accepted by <b>IEEE TGRS</b>.
-- *2024.02*: &nbsp;One paper is accepted by <b>Information Fusion</b>.
+- *2025.07*: &nbsp;One paper is accepted by <b>Journal of Scientific Computing</b>.
 
 # Publications 
 <b>Note</b>: \* indicates the corresponding author.

@@ -68,11 +68,11 @@ E-mail: <wuzhch97@163.com>; <zhongcheng.wu@hfut.edu.cn> &emsp; [Google Scholar](
 
 - <b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Hong-Xia Dou, Deyu Meng, "Tensor Wheel Decomposition and Its Tensor Completion Application", *NeurIPS*, 2022. [[PDF](https://zhongchengwu.github.io/papers/neurips_2022.pdf)] [[Appendix](https://zhongchengwu.github.io/papers/neurips_2022_appendix.pdf)] [[Poster](https://zhongchengwu.github.io/papers/Poster_TWDec.pdf)] [[Slides](https://zhongchengwu.github.io/papers/Slides_TWDec.pdf)] [[Code](https://github.com/zhongchengwu/code_TWDec)]
 
-## 2022
+## 2021
 
 - <b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Jin-Fan Hu, Gemine Vivone, "VO+Net: An Adaptive Approach Using Variational Optimization and Deep Learning for Panchromatic Sharpening", *IEEE Transactions on Geoscience and Remote Sensing*, 2021. [[Code](https://liangjiandeng.github.io/Projects_Res/VOFF_2021tgrs.html)] (<span style="color:red">ESI Highly Cited Paper</span>)
 
-## 2021
+## 2020
 
 - <b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Gemine Vivone, Jia-Qing Miao, Jin-Fan Hu, Xi-Le Zhao, "A New Variational Approach Based on Proximal Deep Injection and Gradient Intensity Similarity for Spatio-Spectral Image Fusion", *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2020. [[Code](https://liangjiandeng.github.io/Projects_Res/DMPIF_2020jstars.html)]
 

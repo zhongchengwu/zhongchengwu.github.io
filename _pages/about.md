@@ -32,13 +32,9 @@ E-mail: <wuzhch97@163.com> &emsp;
 # Publications 
 <b>Note</b>: \* indicates the corresponding author.
 
-- CroDoSR: Tensor Cross-Domain Rank for Hyperspectral Image Super-Resolution <br>
-  <b>Zhong-Cheng Wu</b>, Ya-Jun Li, Ting-Zhu Huang\*, Liang-Jian Deng\*, Gemine Vivone <br>
-  <b>*IEEE Transactions on Geoscience and Remote Sensing*</b>, 2024.
+- <b>Zhong-Cheng Wu</b>, Ya-Jun Li, Ting-Zhu Huang\*, Liang-Jian Deng\*, Gemine Vivone, <b>"CroDoSR: Tensor Cross-Domain Rank for Hyperspectral Image Super-Resolution"</b>, *IEEE Transactions on Geoscience and Remote Sensing*, 2024.
   
-- Pansharpening via Semi-Framelet-Guided Sparse Reconstruction <br>
-  <b>Zhong-Cheng Wu</b>, Gemine Vivone\*, Ting-Zhu Huang\*, Liang-Jian Deng <br>
-  <b>*Information Fusion*</b>, 2024. [[Code](https://github.com/zhongchengwu/code_SemiFGSR)]
+- <b>Zhong-Cheng Wu</b>, Gemine Vivone\*, Ting-Zhu Huang\*, Liang-Jian Deng, <b>"Pansharpening via Semi-Framelet-Guided Sparse Reconstruction"</b>, *Information Fusion*, 2024. [[Code](https://github.com/zhongchengwu/code_SemiFGSR)]
 
 - [Dynamical Fusion Model with Joint Variational and Deep Priors for Hyperspectral Image Super-resolution](https://ieeexplore.ieee.org/document/10156889) <br>
   Hong-Xia Dou, <b>Zhong-Cheng Wu\*</b>, Yu-Wei Zhuo, Liang-Jian Deng, Gemine Vivone <br>

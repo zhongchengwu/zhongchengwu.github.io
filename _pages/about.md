@@ -32,6 +32,8 @@ E-mail: <wuzhch97@163.com> &emsp;
 # Publications 
 <b>Note</b>: \* indicates the corresponding author.
 
+- Xiao Wu, Ting-Zhu Huang, <b>Zhong-Cheng Wu</b>, Liang-Jian Deng, "A Robust Tensor Wheel Decomposition-Based Regularization Method for Tensor Completion Problem", *Journal of Scientific Computing*, 2025.
+
 - <b>Zhong-Cheng Wu</b>, Ya-Jun Li, Ting-Zhu Huang\*, Liang-Jian Deng\*, Gemine Vivone, "CroDoSR: Tensor Cross-Domain Rank for Hyperspectral Image Super-Resolution", *IEEE Transactions on Geoscience and Remote Sensing*, 2024.
   
 - <b>Zhong-Cheng Wu</b>, Gemine Vivone\*, Ting-Zhu Huang\*, Liang-Jian Deng, "Pansharpening via Semi-Framelet-Guided Sparse Reconstruction", *Information Fusion*, 2024. [[Code](https://github.com/zhongchengwu/code_SemiFGSR)]

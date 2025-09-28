@@ -83,7 +83,7 @@ E-mail: <wuzhch97@163.com>; <zhongcheng.wu@hfut.edu.cn> &emsp; [Google Scholar](
 
 # Honors and Awards
 - Academic Promising Talent Award, *2021* and *2024*
-- 中国航天科技集团CASC奖学金, *2024*
+- 中国航天科技集团 CASC 奖学金, *2024*
 - National Scholarship, *2023*
 - Outstanding Postgraduate, *2021* and *2023*
 - Academic Scholarship, *2019*, *2021*, *2022*, and *2023*

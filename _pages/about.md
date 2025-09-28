@@ -30,13 +30,19 @@ E-mail: <wuzhch97@163.com> &emsp;
 # Publications 
 <b>Note</b>: \* indicates the corresponding author.
 
+## 2025
+
 - Xiao Wu, Ting-Zhu Huang, <b>Zhong-Cheng Wu</b>, Liang-Jian Deng, "A Robust Tensor Wheel Decomposition-Based Regularization Method for Tensor Completion Problem", *Journal of Scientific Computing*, 2025.
 
 - Jin-Liang Xiao, Ting-Zhu Huang, <b>Zhong-Cheng Wu</b>, Liang-Jian Deng, "A Novel Nonconvex Rank Approximation with Application to the Matrix Completion", *East Asian Journal on Applied Mathematics*, 2025.
 
+## 2024
+
 - <b>Zhong-Cheng Wu</b>, Ya-Jun Li, Ting-Zhu Huang\*, Liang-Jian Deng\*, Gemine Vivone, "CroDoSR: Tensor Cross-Domain Rank for Hyperspectral Image Super-Resolution", *IEEE Transactions on Geoscience and Remote Sensing*, 2024.
   
 - <b>Zhong-Cheng Wu</b>, Gemine Vivone\*, Ting-Zhu Huang\*, Liang-Jian Deng, "Pansharpening via Semi-Framelet-Guided Sparse Reconstruction", *Information Fusion*, 2024. [[Code](https://github.com/zhongchengwu/code_SemiFGSR)]
+
+## 2023
 
 - Hong-Xia Dou, <b>Zhong-Cheng Wu\*</b>, Yu-Wei Zhuo, Liang-Jian Deng, Gemine Vivone, "Dynamical Fusion Model with Joint Variational and Deep Priors for Hyperspectral Image Super-resolution", *IEEE Geoscience and Remote Sensing Letters*, 2023.
 

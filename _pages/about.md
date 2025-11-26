@@ -32,7 +32,7 @@ E-mail: <wuzhch97@163.com>; <zhongcheng.wu@hfut.edu.cn> &emsp; [Google Scholar](
 - *2025.07*: &nbsp;One paper is accepted by <b>Journal of Scientific Computing</b>.
 
 # Publications 
-<b>Note</b>: \* indicates the corresponding author.
+(<b>Note</b>: \* indicates the corresponding author.)
 
 ## 2025
 

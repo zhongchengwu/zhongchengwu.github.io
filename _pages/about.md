@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am currently working with the School of Instrument Science and Opto-electronics Engineering, [Hefei University of Technology](https://www.hfut.edu.cn/), Hefei, China. 
+I am currently an Assistant Professor with the School of Instrument Science and Opto-electronics Engineering, [Hefei University of Technology](https://www.hfut.edu.cn/) (HFUT), Hefei, China, working in Prof. [Yu Liu](https://sites.google.com/site/yuliu316316/)'s research team.
 
 In 2025, I received the Ph.D. degree in Mathematics, advised by Prof. [Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm) (黄廷祝 教授), from the School of Mathematical Sciences, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) (UESTC), Chengdu, China.
 

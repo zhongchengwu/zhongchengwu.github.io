@@ -20,7 +20,7 @@ redirect_from:
 
 I am currently an Assistant Professor with the School of Instrument Science and Opto-electronics Engineering, [Hefei University of Technology](https://www.hfut.edu.cn/) (HFUT), Hefei, China, working in Prof. [Yu Liu](https://sites.google.com/site/yuliu316316/)'s research team.
 
-In 2025, I received the Ph.D. degree in Mathematics, advised by Prof. [Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm) and co-advised by Prof. Liang-Jiang Deng, from the School of Mathematical Sciences, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) (UESTC), Chengdu, China.
+In 2025, I received the Ph.D. degree in Mathematics, advised by Prof. [Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm) and co-advised by Prof. [Liang-Jiang Deng](https://liangjiandeng.github.io/), from the School of Mathematical Sciences, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) (UESTC), Chengdu, China.
 
 From Sep. 2023 to Sep. 2024, I worked with Prof. [Gemine Vivone](https://sites.google.com/site/vivonegemine), sponsored by the China Scholarship Council, at the Institute of Methodologies for Environmental Analysis (IMAA), National Research Council (CNR), Italy.
 

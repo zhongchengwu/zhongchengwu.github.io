@@ -76,10 +76,6 @@ E-mail: <wuzhch97@163.com>; <zhongcheng.wu@hfut.edu.cn> &emsp; [Google Scholar](
 
 - <b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Gemine Vivone, Jia-Qing Miao, Jin-Fan Hu, Xi-Le Zhao, "A New Variational Approach Based on Proximal Deep Injection and Gradient Intensity Similarity for Spatio-Spectral Image Fusion", *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2020. [[Code](https://liangjiandeng.github.io/Projects_Res/DMPIF_2020jstars.html)]
 
-# Educations
-- *2021.09 - Present*: &nbsp;Ph.D., Mathematics, University of Electronic Science and Technology of China (UESTC), China
-- *2019.09 - 2021.06*: &nbsp;M.S., Mathematics, University of Electronic Science and Technology of China (UESTC), China
-- *2015.09 - 2019.06*: &nbsp;B.S., Information and Computing Science, Anhui University of Finance and Economics (AUFE), China
 
 # Honors and Awards
 - Academic Promising Talent Award, *2021* and *2024*
@@ -91,9 +87,6 @@ E-mail: <wuzhch97@163.com>; <zhongcheng.wu@hfut.edu.cn> &emsp; [Google Scholar](
 - Provincial Outstanding Graduate (Top 3%), *2019* 
 
 # Academic Activities
-
-## Review Editor
-- Frontiers in Remote Sensing, ...
 
 ## Reviewer
 - NeurIPS 2025, Information Fusion, IEEE TIP/TGRS/GRSL, Signal Processing, MDPI Remote Sensing, SPIE JEI, ...

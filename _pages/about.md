@@ -78,13 +78,13 @@ My research interests include high-dimensional image processing, image fusion, t
 
 
 # Honors and Awards
-- Academic Promising Talent Award, *2021* and *2024*
-- 中国航天科技集团 CASC 奖学金, *2024*
-- National Scholarship, *2023*
-- Outstanding Postgraduate, *2021* and *2023*
-- Academic Scholarship, *2019*, *2021*, *2022*, and *2023*
+- Sichuan Provincial Outstanding Ph.D. Graduate, *2025*
+- China Aerospace Science and Technology Corp (CASC) Scholarship, *2024*
+- Academic Promising Talent Award for Graduate (Doctor) Students, *2024*
+- National Scholarship for Graduate (Doctor) Students, *2023*
 - Special Postgraduate Scholarship of Science, *2021*
-- Provincial Outstanding Graduate (Top 3%), *2019* 
+- Academic Promising Talent Award for Graduate (Master) Students, *2021*
+- Anhui Provincial Outstanding Undergraduate Graduate, *2019* 
 
 # Academic Activities
 

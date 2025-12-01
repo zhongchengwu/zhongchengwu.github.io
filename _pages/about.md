@@ -22,7 +22,7 @@ I am an Assistant Professor with the School of Instrument Science and Opto-elect
 
 In 2025, I received the Ph.D. degree in Mathematics, advised by Prof. [Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm) and co-advised by Prof. [Liang-Jiang Deng](https://liangjiandeng.github.io/), from the School of Mathematical Sciences, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) (UESTC), Chengdu, China.
 
-From Sep. 2023 to Sep. 2024, I was a visiting Ph.D. student at the Institute of Methodologies for Environmental Analysis (IMAA), [National Research Council](https://www.cnr.it/en) (CNR), Italy, working there with Prof. [Gemine Vivone](https://sites.google.com/site/vivonegemine), funded by the China Scholarship Council.
+From Sep. 2023 to Sep. 2024, I was a Visiting Ph.D. Student at the Institute of Methodologies for Environmental Analysis (IMAA), [National Research Council](https://www.cnr.it/en) (CNR), Italy, working there with Prof. [Gemine Vivone](https://sites.google.com/site/vivonegemine), funded by the China Scholarship Council.
 
 My research interests include high-dimensional image processing, image fusion, trustworthy machine learning, tensor modeling and computing.
 

@@ -29,7 +29,7 @@ My research interests include high-dimensional image processing, image fusion, t
 <b>E-mail</b>: <b><wuzhch97@163.com></b>; <b><zhongcheng.wu@hfut.edu.cn></b> &emsp; [<b>Google Scholar</b>](https://scholar.google.com/citations?user=8bOvaUcAAAAJ)&emsp; [<b>中文主页</b>](https://yqkx.hfut.edu.cn/2017/0504/c14424a315322/page.htm)
 
 # News 
-- *2025.07*: &nbsp;One paper is accepted by <b>Journal of Scientific Computing</b>.
+- 2025.07: &nbsp;One paper is accepted by <b>Journal of Scientific Computing</b>.
 
 # Publications 
 (<b>Note</b>: \* indicates the corresponding author.)

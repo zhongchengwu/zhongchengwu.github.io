@@ -24,7 +24,7 @@ In 2025, I received the Ph.D. degree in Mathematics, advised by Prof. [Ting-Zhu 
 
 From Sep. 2023 to Sep. 2024, I was a visiting Ph.D. student at the Institute of Methodologies for Environmental Analysis (IMAA), National Research Council (CNR), Italy, working there with Prof. [Gemine Vivone](https://sites.google.com/site/vivonegemine), sponsored by the China Scholarship Council.
 
-My research interest includes high-dimensional image processing, image fusion, trustworthy machine learning, tensor modeling and computing.
+My research interests include high-dimensional image processing, image fusion, trustworthy machine learning, tensor modeling and computing.
 
 E-mail: <wuzhch97@163.com>; <zhongcheng.wu@hfut.edu.cn> &emsp; [Google Scholar](https://scholar.google.com/citations?user=8bOvaUcAAAAJ)&emsp; [中文主页](https://yqkx.hfut.edu.cn/2017/0504/c14424a315322/page.htm)
 

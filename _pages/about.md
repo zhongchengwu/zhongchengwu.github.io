@@ -88,4 +88,4 @@ My research interests include high-dimensional image processing, image fusion, t
 
 # Academic Activities
 
-- <b>Reviewer</b>: NeurIPS 2025, Information Fusion, IEEE TIP/TGRS/GRSL, Signal Processing, MDPI Remote Sensing, SPIE JEI, etc.
+- <b>Reviewer</b>: NeurIPS 2025, IEEE TIP/TGRS/GRSL, Information Fusion, Signal Processing, MDPI Remote Sensing, SPIE JEI, etc.

@@ -26,7 +26,7 @@ From Sep. 2023 to Sep. 2024, I was a visiting Ph.D. student at the Institute of 
 
 My research interests include high-dimensional image processing, image fusion, trustworthy machine learning, tensor modeling and computing.
 
-<b>E-mail</b>: <b><wuzhch97@163.com></b>; <b><zhongcheng.wu@hfut.edu.cn></b> &emsp; [<b>Google Scholar</b>](https://scholar.google.com/citations?user=8bOvaUcAAAAJ)&emsp; [<b>中文主页</b>](https://yqkx.hfut.edu.cn/2017/0504/c14424a315322/page.htm)
+<b>E-mail</b>: <b><wuzhch97@163.com></b>; <b><zhongcheng.wu@hfut.edu.cn></b> &emsp; [<b>Google Scholar</b>](https://scholar.google.com/citations?user=8bOvaUcAAAAJ)&emsp; [<b>中文主页</b>](http://faculty.hfut.edu.cn/zhongchengwu/zh_CN/index.htm)
 
 # News 
 - 2025.07: &nbsp;One paper is accepted by <b>Journal of Scientific Computing</b>.

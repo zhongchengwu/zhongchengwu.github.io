@@ -47,9 +47,9 @@ My research interests include high-dimensional image processing, image fusion, t
 
 ## 2024
 
-- <b>Zhong-Cheng Wu</b>, Ya-Jun Li, Ting-Zhu Huang\*, Liang-Jian Deng\*, Gemine Vivone, "CroDoSR: Tensor Cross-Domain Rank for Hyperspectral Image Super-Resolution", *IEEE Transactions on Geoscience and Remote Sensing*, 2024.
-  
 - <b>Zhong-Cheng Wu</b>, Gemine Vivone\*, Ting-Zhu Huang\*, Liang-Jian Deng, "Pansharpening via Semi-Framelet-Guided Sparse Reconstruction", *Information Fusion*, 2024. [[Code](https://github.com/zhongchengwu/code_SemiFGSR)]
+
+- <b>Zhong-Cheng Wu</b>, Ya-Jun Li, Ting-Zhu Huang\*, Liang-Jian Deng\*, Gemine Vivone, "CroDoSR: Tensor Cross-Domain Rank for Hyperspectral Image Super-Resolution", *IEEE Transactions on Geoscience and Remote Sensing*, 2024.
 
 ## 2023
 

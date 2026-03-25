@@ -41,9 +41,9 @@ My research interests include high-dimensional image processing, image fusion, t
 
 ## 2025
 
-- Xiao Wu, Ting-Zhu Huang, <b>Zhong-Cheng Wu</b>, Liang-Jian Deng, "A Robust Tensor Wheel Decomposition-Based Regularization Method for Tensor Completion Problem", *Journal of Scientific Computing*, 2025.
+- Xiao Wu, Ting-Zhu Huang\*, <b>Zhong-Cheng Wu</b>, Liang-Jian Deng\*, "A Robust Tensor Wheel Decomposition-Based Regularization Method for Tensor Completion Problem", *Journal of Scientific Computing*, 2025.
 
-- Jin-Liang Xiao, Ting-Zhu Huang, <b>Zhong-Cheng Wu</b>, Liang-Jian Deng, "A Novel Nonconvex Rank Approximation with Application to the Matrix Completion", *East Asian Journal on Applied Mathematics*, 2025.
+- Jin-Liang Xiao, Ting-Zhu Huang\*, <b>Zhong-Cheng Wu</b>, Liang-Jian Deng, "A Novel Nonconvex Rank Approximation with Application to the Matrix Completion", *East Asian Journal on Applied Mathematics*, 2025.
 
 ## 2024
 

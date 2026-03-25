@@ -59,9 +59,9 @@ My research interests include high-dimensional image processing, image fusion, t
 
 - Hong-Xia Dou, <b>Zhong-Cheng Wu\*</b>, Yu-Wei Zhuo, Liang-Jian Deng, Gemine Vivone, "Dynamical Fusion Model with Joint Variational and Deep Priors for Hyperspectral Image Super-resolution", *IEEE Geoscience and Remote Sensing Letters*, 2023.
 
-- Jin-Liang Xiao, Ting-Zhu Huang\*, Liang-Jian Deng\*, <b>Zhong-Cheng Wu</b>, Xiao Wu, Gemine Vivone, "Variational Pansharpening Based on Coefficient Estimation with Nonlocal Regression", *IEEE Transactions on Geoscience and Remote Sensing*, 2023. [[Code](https://github.com/Jin-liangXiao/SFNLR)]
-
 - Rui Wen, Liang-Jian Deng\*, <b>Zhong-Cheng Wu</b>, Xiao Wu,  Gemine Vivone, "A Novel Spatial Fidelity with Learnable Nonlinear Mapping for Panchromatic Sharpening", *IEEE Transactions on Geoscience and Remote Sensing*, 2023. [[PDF](https://liangjiandeng.github.io/papers/2023/wen-tgrs2023.pdf)] [[Code](https://github.com/liangjiandeng/-LNM-PS)]
+
+- Jin-Liang Xiao, Ting-Zhu Huang\*, Liang-Jian Deng\*, <b>Zhong-Cheng Wu</b>, Xiao Wu, Gemine Vivone, "Variational Pansharpening Based on Coefficient Estimation with Nonlocal Regression", *IEEE Transactions on Geoscience and Remote Sensing*, 2023. [[Code](https://github.com/Jin-liangXiao/SFNLR)]
 
 ## 2022
 

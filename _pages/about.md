@@ -29,8 +29,8 @@ My research interests include high-dimensional image processing, image fusion, t
 <b>E-mail</b>: <b><wuzhch97@163.com></b>; <b><zhongcheng.wu@hfut.edu.cn></b> &emsp; [<b>Google Scholar</b>](https://scholar.google.com/citations?user=8bOvaUcAAAAJ)&emsp; [<b>中文主页</b>](http://faculty.hfut.edu.cn/zhongchengwu/zh_CN/index.htm)
 
 # News 
-- 2026.02: &nbsp;One paper is accepted by <b>CVPR 2026</b>.
-- 2025.07: &nbsp;One paper is accepted by <b>Journal of Scientific Computing</b>.
+- 2026.02: &nbsp;One paper is accepted by <b>*CVPR 2026*</b>.
+- 2025.07: &nbsp;One paper is accepted by <b>*Journal of Scientific Computing*</b>.
 
 # Publications 
 (<b>Note</b>: \* indicates the corresponding author.)

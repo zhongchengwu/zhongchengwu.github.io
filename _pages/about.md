@@ -68,9 +68,7 @@ My research interests include high-dimensional image processing, image fusion, t
 
 - <b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Hong-Xia Dou, Deyu Meng, "Tensor Wheel Decomposition and Its Tensor Completion Application", *NeurIPS*, 2022. [[PDF](https://zhongchengwu.github.io/papers/neurips_2022.pdf)] [[Appendix](https://zhongchengwu.github.io/papers/neurips_2022_appendix.pdf)] [[Poster](https://zhongchengwu.github.io/papers/Poster_TWDec.pdf)] [[Slides](https://zhongchengwu.github.io/papers/Slides_TWDec.pdf)] [[Code](https://github.com/zhongchengwu/code_TWDec)]
 
-## 2021
-
-- <b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Jin-Fan Hu, Gemine Vivone, "VO+Net: An Adaptive Approach Using Variational Optimization and Deep Learning for Panchromatic Sharpening", *IEEE Transactions on Geoscience and Remote Sensing*, 2021. [[Code](https://liangjiandeng.github.io/Projects_Res/VOFF_2021tgrs.html)] (<span style="color:red">ESI Highly Cited Paper</span>)
+- <b>Zhong-Cheng Wu</b>, Ting-Zhu Huang\*, Liang-Jian Deng\*, Jin-Fan Hu, Gemine Vivone, "VO+Net: An Adaptive Approach Using Variational Optimization and Deep Learning for Panchromatic Sharpening", *IEEE Transactions on Geoscience and Remote Sensing*, 2022. [[Code](https://liangjiandeng.github.io/Projects_Res/VOFF_2021tgrs.html)] (<span style="color:red">ESI Highly Cited Paper</span>)
 
 ## 2020
 
@@ -88,4 +86,4 @@ My research interests include high-dimensional image processing, image fusion, t
 
 # Academic Activities
 
-- <b>Reviewer</b>: NeurIPS 2025, IEEE TIP/TGRS/SPL/GRSL, Information Fusion, Signal Processing, MDPI Remote Sensing, SPIE JEI, etc.
+- <b>Reviewer</b>: NeurIPS/CVPR/ECCV, IEEE TIP/TGRS/SPL/GRSL, Information Fusion, Pattern Recognition, Signal Processing, etc.

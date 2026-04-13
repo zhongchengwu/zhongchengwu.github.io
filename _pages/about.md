@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am an Assistant Professor with the School of Instrument Science and Opto-electronics Engineering, [Hefei University of Technology](https://www.hfut.edu.cn/) (HFUT), Hefei, China, working in Prof. [Yu Liu](https://sites.google.com/site/yuliu316316/)'s research team.
+I am an Assistant Professor with the School of Instrument Science and Opto-electronics Engineering, [Hefei University of Technology](https://www.hfut.edu.cn/) (HFUT), Hefei, China, working in the [Multi-modal Information Fusion and Perception](https://yuliu316316.github.io/GROUP.html) (MIFP) research group.
 
 In 2025, I received the Ph.D. degree in Mathematics, advised by Prof. [Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm) and co-advised by Prof. [Liang-Jiang Deng](https://liangjiandeng.github.io/), from the School of Mathematical Sciences, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) (UESTC), Chengdu, China.
 
@@ -29,6 +29,7 @@ My research interests include high-dimensional image processing, image fusion, t
 <b>E-mail</b>: <b><wuzhch97@163.com></b>; <b><zhongcheng.wu@hfut.edu.cn></b> &emsp; [<b>Google Scholar</b>](https://scholar.google.com/citations?user=8bOvaUcAAAAJ)&emsp; [<b>中文主页</b>](http://faculty.hfut.edu.cn/zhongchengwu/zh_CN/index.htm)
 
 # News 
+- 2026.04: &nbsp;One paper is accepted by <b>*IEEE TIP*</b>.
 - 2026.02: &nbsp;One paper is accepted by <b>*CVPR 2026*</b>.
 - 2025.07: &nbsp;One paper is accepted by <b>*Journal of Scientific Computing*</b>.
 
@@ -36,6 +37,8 @@ My research interests include high-dimensional image processing, image fusion, t
 (<b>Note</b>: \* indicates the corresponding author.)
 
 ## 2026
+
+- <b>Zhong-Cheng Wu</b>, Liang-Jian Deng\*, Ting-Zhu Huang, Hong-Xia Dou, Gemine Vivone, Yu Liu\*, "Tensor Wheel Decomposition: Theory and Application to Tensor Completion", *IEEE Transactions on Image Processing*, 2026.
 
 - Yu Shi, Yu Liu\*, <b>Zhong-Cheng Wu</b>, Juan Cheng, Huafeng Li, Xun Chen, "Degradation-Robust Fusion: An Efficient Degradation-Aware Diffusion Framework for Multimodal Image Fusion in Arbitrary Degradation Scenarios", *CVPR*, 2026.
 

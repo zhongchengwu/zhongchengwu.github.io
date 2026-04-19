@@ -38,9 +38,9 @@ My research interests include high-dimensional image processing, image fusion, t
 
 ## 2026
 
-- <b>Zhong-Cheng Wu</b>, Liang-Jian Deng\*, Ting-Zhu Huang, Hong-Xia Dou, Gemine Vivone, Yu Liu\*, "Tensor Wheel Decomposition: Theory and Application to Tensor Completion", *IEEE Transactions on Image Processing*, 2026.
+- <b>Zhong-Cheng Wu</b>, Liang-Jian Deng\*, Ting-Zhu Huang, Hong-Xia Dou, Gemine Vivone, Yu Liu\*, "Tensor Wheel Decomposition: Theory and Application to Tensor Completion", *IEEE Transactions on Image Processing*, 2026. [[Code](https://github.com/zhongchengwu/code_newTWDec)]
 
-- Yu Shi, Yu Liu\*, <b>Zhong-Cheng Wu</b>, Juan Cheng, Huafeng Li, Xun Chen, "Degradation-Robust Fusion: An Efficient Degradation-Aware Diffusion Framework for Multimodal Image Fusion in Arbitrary Degradation Scenarios", *CVPR*, 2026.
+- Yu Shi, Yu Liu\*, <b>Zhong-Cheng Wu</b>, Juan Cheng, Huafeng Li, Xun Chen, "Degradation-Robust Fusion: An Efficient Degradation-Aware Diffusion Framework for Multimodal Image Fusion in Arbitrary Degradation Scenarios", *CVPR*, 2026. [[Code](https://github.com/YShi-cool/DRFusion)]
 
 ## 2025
 
